@@ -1,9 +1,10 @@
-function App() {
+import "./App.css";
+const App = () => {
   return (
     <>
-      <div></div>
+      <div>Hello World!</div>
     </>
   );
-}
+};
 
 export default App;
