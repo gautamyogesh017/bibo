@@ -1,5 +1,5 @@
 const Register = () => {
-  return {};
+  return <a href="#"> Signup</a>;
 };
 
 export default Register;
