@@ -1,8 +1,11 @@
+import Register from "./pages/Auth/register";
 import "./App.css";
 const App = () => {
   return (
     <>
-      <div>Hello World!</div>
+      <div>
+        <Register />
+      </div>
     </>
   );
 };
