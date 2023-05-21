@@ -5,6 +5,7 @@ const App = () => {
     <>
       <div>
         <Register />
+        <SignIn />
       </div>
     </>
   );
